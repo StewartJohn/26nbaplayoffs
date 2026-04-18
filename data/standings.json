@@ -1,0 +1,30 @@
+{
+  "last_updated": "2026-04-18T16:06:20Z",
+  "scoring_rules": {
+    "winner_points_by_round": {
+      "1": 1,
+      "2": 2,
+      "3": 4,
+      "4": 8
+    },
+    "exact_games_bonus": 2,
+    "within_one_bonus": 1,
+    "note": "Points are awarded only after a series completes. Winner points by round (R1/R2/CF/F) = 1/2/4/8. If the series length prediction matches exactly, +2; if off by one game, +1."
+  },
+  "standings": [
+    {
+      "player_id": "john",
+      "name": "John",
+      "total": 0,
+      "correct_winners": 0,
+      "exact_games": 0,
+      "close_games": 0,
+      "by_round": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2026 NBA Playoffs Pool</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>2026 NBA Playoffs Pool</h1>
+    <p class="updated" id="updated">Loading…</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Standings</h2>
+      <table class="standings" id="standings-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Player</th>
+            <th>Total</th>
+            <th title="Correct series winners">Winners</th>
+            <th title="Exact game-count predictions">Exact</th>
+            <th title="Game count off by one">Close</th>
+            <th>R1</th>
+            <th>R2</th>
+            <th>CF</th>
+            <th>F</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <section class="card">
+      <h2>Bracket</h2>
+      <div class="bracket" id="bracket"></div>
+    </section>
+
+    <section class="card">
+      <h2>Scoring rules</h2>
+      <ul class="rules" id="rules"></ul>
+    </section>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
