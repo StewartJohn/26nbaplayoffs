@@ -2,11 +2,13 @@ name: Update playoff data
 
 on:
   schedule:
-    # Runs at 11pm, 1am, and 3am UTC = 7pm, 9pm, 11pm ET
-    # Covers games that tip at 7:30, 8, and 10:30pm ET
+    # All times UTC (ET = UTC-4 during daylight saving)
+    # 7pm, 9pm, 11pm ET = covers evening games
     - cron: '0 23 * * *'
     - cron: '0 1 * * *'
     - cron: '0 3 * * *'
+    # 5am ET = catches any overnight final scores
+    - cron: '0 9 * * *'
   workflow_dispatch:  # allows manual run from the Actions tab in GitHub
 
 jobs:
