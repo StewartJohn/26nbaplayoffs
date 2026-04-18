@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T17:00:47Z",
+  "last_updated": "2026-04-18T23:40:08Z",
   "season": "2025-26",
   "series": [
     {
@@ -38,11 +38,11 @@
         "seed": 5,
         "name": "Toronto Raptors"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "E3",
@@ -143,11 +143,11 @@
         "seed": 6,
         "name": "Minnesota Timberwolves"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "W4",
