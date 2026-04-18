@@ -42,6 +42,69 @@
       "WF":  { "winner": "DEN", "games": 7 },
       "F":   { "winner": "CLE", "games": 7 }
       }
+    },
+    {
+      "id": "zach",
+      "name": "Zach",
+    "picks": {
+      "E1": { "winner": "DET", "games": 6 },
+      "E2": { "winner": "CLE", "games": 7 },
+      "E3": { "winner": "NYK", "games": 5 },
+      "E4": { "winner": "BOS", "games": 4 },
+      "W1": { "winner": "OKC", "games": 4 },
+      "W2": { "winner": "LAL", "games": 7 },
+      "W3": { "winner": "DEN", "games": 7 },
+      "W4": { "winner": "SAS", "games": 5 },
+      "ES1": { "winner": "DET", "games": 5 },
+      "ES2": { "winner": "BOS", "games": 6 },
+      "WS1": { "winner": "OKC", "games": 5 },
+      "WS2": { "winner": "SAS", "games": 7 },
+      "EF":  { "winner": "BOS", "games": 7 },
+      "WF":  { "winner": "SAS", "games": 7 },
+      "F":   { "winner": "SAS", "games": 5 }
+      }
+    },
+    {
+      "id": "ryan",
+      "name": "Ryan",
+    "picks": {
+      "E1": { "winner": "DET", "games": 5 },
+      "E2": { "winner": "CLE", "games": 6 },
+      "E3": { "winner": "ATL", "games": 6 },
+      "E4": { "winner": "BOS", "games": 5 },
+      "W1": { "winner": "OKC", "games": 4 },
+      "W2": { "winner": "HOU", "games": 6 },
+      "W3": { "winner": "DEN", "games": 5 },
+      "W4": { "winner": "SAS", "games": 4 },
+      "ES1": { "winner": "CLE", "games": 6 },
+      "ES2": { "winner": "BOS", "games": 4 },
+      "WS1": { "winner": "OKC", "games": 5 },
+      "WS2": { "winner": "DEN", "games": 6 },
+      "EF":  { "winner": "BOS", "games": 6 },
+      "WF":  { "winner": "DEN", "games": 6 },
+      "F":   { "winner": "DEN", "games": 6 }
+      }
+    },
+    {
+      "id": "bennett",
+      "name": "Bennett",
+    "picks": {
+      "E1": { "winner": "DET", "games": 6 },
+      "E2": { "winner": "TOR", "games": 7 },
+      "E3": { "winner": "NYK", "games": 5 },
+      "E4": { "winner": "BOS", "games": 5 },
+      "W1": { "winner": "OKC", "games": 7 },
+      "W2": { "winner": "LAL", "games": 7 },
+      "W3": { "winner": "DEN", "games": 7 },
+      "W4": { "winner": "SAS", "games": 4 },
+      "ES1": { "winner": "DET", "games": 6 },
+      "ES2": { "winner": "NYK", "games": 7 },
+      "WS1": { "winner": "OKC", "games": 7 },
+      "WS2": { "winner": "SAS", "games": 7 },
+      "EF":  { "winner": "NYK", "games": 7 },
+      "WF":  { "winner": "OKC", "games": 7 },
+      "F":   { "winner": "OKC", "games": 7 }
+      }
     }
   ]
 }
