@@ -21,6 +21,27 @@
       "WF":  { "winner": "OKC", "games": 7 },
       "F":   { "winner": "OKC", "games": 6 }
       }
+    },
+    {
+      "id": "joe",
+      "name": "Joe",
+    "picks": {
+      "E1": { "winner": "DET", "games": 7 },
+      "E2": { "winner": "CLE", "games": 6 },
+      "E3": { "winner": "NYK", "games": 7 },
+      "E4": { "winner": "BOS", "games": 5 },
+      "W1": { "winner": "OKC", "games": 5 },
+      "W2": { "winner": "HOU", "games": 6 },
+      "W3": { "winner": "DEN", "games": 6 },
+      "W4": { "winner": "SAS", "games": 5 },
+      "ES1": { "winner": "CLE", "games": 7 },
+      "ES2": { "winner": "NYK", "games": 7 },
+      "WS1": { "winner": "OKC", "games": 5 },
+      "WS2": { "winner": "DEN", "games": 7 },
+      "EF":  { "winner": "CLE", "games": 6 },
+      "WF":  { "winner": "DEN", "games": 7 },
+      "F":   { "winner": "CLE", "games": 7 }
+      }
     }
   ]
 }
