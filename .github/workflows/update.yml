@@ -1,0 +1,41 @@
+name: Update playoff data
+
+on:
+  schedule:
+    # Runs at 11pm, 1am, and 3am UTC = 7pm, 9pm, 11pm ET
+    # Covers games that tip at 7:30, 8, and 10:30pm ET
+    - cron: '0 23 * * *'
+    - cron: '0 1 * * *'
+    - cron: '0 3 * * *'
+  workflow_dispatch:  # allows manual run from the Actions tab in GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to push the updated data/ files back
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: updater/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r updater/requirements.txt
+
+      - name: Scrape ESPN and recompute standings
+        run: python updater/update.py --no-push
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || (
+            git commit -m "Update playoff data $(date -u '+%Y-%m-%d %H:%M UTC')" &&
+            git push
+          )
