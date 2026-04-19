@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T09:52:27Z",
+  "last_updated": "2026-04-19T23:41:36Z",
   "season": "2025-26",
   "series": [
     {
@@ -80,11 +80,11 @@
         "seed": 7,
         "name": "Philadelphia 76ers"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "W1",
@@ -101,11 +101,11 @@
         "seed": 8,
         "name": "Phoenix Suns"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "W2",
