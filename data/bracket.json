@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T23:40:08Z",
+  "last_updated": "2026-04-19T04:16:15Z",
   "season": "2025-26",
   "series": [
     {
@@ -59,11 +59,11 @@
         "seed": 6,
         "name": "Atlanta Hawks"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "E4",
@@ -122,11 +122,11 @@
         "seed": 5,
         "name": "Houston Rockets"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "W3",
