@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T23:41:36Z",
+  "last_updated": "2026-04-20T04:21:48Z",
   "season": "2025-26",
   "series": [
     {
@@ -18,10 +18,10 @@
         "name": "Orlando Magic"
       },
       "top_wins": 0,
-      "bottom_wins": 0,
+      "bottom_wins": 1,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "E2",
@@ -164,11 +164,11 @@
         "seed": 7,
         "name": "Portland Trail Blazers"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "ES1",
