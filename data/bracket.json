@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T16:24:07Z",
+  "last_updated": "2026-04-20T23:49:29Z",
   "season": "2025-26",
   "series": [
     {
@@ -18,10 +18,10 @@
         "name": "Orlando Magic"
       },
       "top_wins": 0,
-      "bottom_wins": 0,
+      "bottom_wins": 1,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "E2",
@@ -38,11 +38,11 @@
         "seed": 5,
         "name": "Toronto Raptors"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "E3",
@@ -59,11 +59,11 @@
         "seed": 6,
         "name": "Atlanta Hawks"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "E4",
@@ -80,11 +80,11 @@
         "seed": 7,
         "name": "Philadelphia 76ers"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "W1",
@@ -101,11 +101,11 @@
         "seed": 8,
         "name": "Phoenix Suns"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "W2",
@@ -122,11 +122,11 @@
         "seed": 5,
         "name": "Houston Rockets"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "W3",
@@ -143,11 +143,11 @@
         "seed": 6,
         "name": "Minnesota Timberwolves"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "W4",
@@ -164,11 +164,11 @@
         "seed": 7,
         "name": "Portland Trail Blazers"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "games_played": 1,
+      "status": "in_progress"
     },
     {
       "id": "ES1",
