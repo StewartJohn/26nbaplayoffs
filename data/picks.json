@@ -110,21 +110,21 @@
       "id": "sam",
       "name": "Sam",
     "picks": {
-      "E1": { "winner": "DET", "games": 6 },
-      "E2": { "winner": "CLE", "games": 7 },
-      "E3": { "winner": "NYK", "games": 5 },
-      "E4": { "winner": "BOS", "games": 5 },
-      "W1": { "winner": "OKC", "games": 7 },
-      "W2": { "winner": "LAL", "games": 7 },
-      "W3": { "winner": "DEN", "games": 7 },
-      "W4": { "winner": "SAS", "games": 4 },
+      "E1": { "winner": "DET", "games": 7 },
+      "E2": { "winner": "CLE", "games": 4 },
+      "E3": { "winner": "NYK", "games": 6 },
+      "E4": { "winner": "BOS", "games": 4 },
+      "W1": { "winner": "OKC", "games": 4 },
+      "W2": { "winner": "LAL", "games": 6 },
+      "W3": { "winner": "DEN", "games": 5 },
+      "W4": { "winner": "SAS", "games": 5 },
       "ES1": { "winner": "CLE", "games": 6 },
-      "ES2": { "winner": "BOS", "games": 7 },
-      "WS1": { "winner": "OKC", "games": 7 },
+      "ES2": { "winner": "BOS", "games": 5 },
+      "WS1": { "winner": "OKC", "games": 5 },
       "WS2": { "winner": "DEN", "games": 7 },
-      "EF":  { "winner": "BOS", "games": 7 },
-      "WF":  { "winner": "OKC", "games": 7 },
-      "F":   { "winner": "OKC", "games": 7 }
+      "EF":  { "winner": "BOS", "games": 6 },
+      "WF":  { "winner": "OKC", "games": 6 },
+      "F":   { "winner": "OKC", "games": 6 }
       }
     }
   ]
