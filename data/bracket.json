@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T23:50:09Z",
+  "last_updated": "2026-04-23T04:14:22Z",
   "season": "2025-26",
   "series": [
     {
@@ -17,10 +17,10 @@
         "seed": 8,
         "name": "Orlando Magic"
       },
-      "top_wins": 0,
+      "top_wins": 1,
       "bottom_wins": 1,
       "winner": null,
-      "games_played": 1,
+      "games_played": 2,
       "status": "in_progress"
     },
     {
