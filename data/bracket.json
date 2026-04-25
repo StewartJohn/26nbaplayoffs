@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T23:43:25Z",
+  "last_updated": "2026-04-25T03:53:35Z",
   "season": "2025-26",
   "series": [
     {
@@ -80,10 +80,10 @@
         "seed": 7,
         "name": "Philadelphia 76ers"
       },
-      "top_wins": 1,
+      "top_wins": 2,
       "bottom_wins": 1,
       "winner": null,
-      "games_played": 2,
+      "games_played": 3,
       "status": "in_progress"
     },
     {
@@ -122,10 +122,10 @@
         "seed": 5,
         "name": "Houston Rockets"
       },
-      "top_wins": 2,
+      "top_wins": 3,
       "bottom_wins": 0,
       "winner": null,
-      "games_played": 2,
+      "games_played": 3,
       "status": "in_progress"
     },
     {
