@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T23:57:01Z",
+  "last_updated": "2026-04-28T04:35:54Z",
   "scoring_rules": {
     "winner_points_by_round": {
       "1": 1,
@@ -13,42 +13,14 @@
   },
   "standings": [
     {
-      "player_id": "bennett",
-      "name": "Bennett",
-      "total": 0,
-      "correct_winners": 0,
-      "exact_games": 0,
-      "close_games": 0,
-      "by_round": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0
-      }
-    },
-    {
-      "player_id": "joe",
-      "name": "Joe",
-      "total": 0,
-      "correct_winners": 0,
-      "exact_games": 0,
-      "close_games": 0,
-      "by_round": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0
-      }
-    },
-    {
       "player_id": "john",
       "name": "John",
-      "total": 0,
-      "correct_winners": 0,
-      "exact_games": 0,
+      "total": 3,
+      "correct_winners": 1,
+      "exact_games": 1,
       "close_games": 0,
       "by_round": {
-        "1": 0,
+        "1": 3,
         "2": 0,
         "3": 0,
         "4": 0
@@ -57,12 +29,12 @@
     {
       "player_id": "paul",
       "name": "Paul",
-      "total": 0,
-      "correct_winners": 0,
-      "exact_games": 0,
+      "total": 3,
+      "correct_winners": 1,
+      "exact_games": 1,
       "close_games": 0,
       "by_round": {
-        "1": 0,
+        "1": 3,
         "2": 0,
         "3": 0,
         "4": 0
@@ -71,12 +43,12 @@
     {
       "player_id": "ryan",
       "name": "Ryan",
-      "total": 0,
-      "correct_winners": 0,
-      "exact_games": 0,
+      "total": 3,
+      "correct_winners": 1,
+      "exact_games": 1,
       "close_games": 0,
       "by_round": {
-        "1": 0,
+        "1": 3,
         "2": 0,
         "3": 0,
         "4": 0
@@ -85,12 +57,12 @@
     {
       "player_id": "sam",
       "name": "Sam",
-      "total": 0,
-      "correct_winners": 0,
-      "exact_games": 0,
+      "total": 3,
+      "correct_winners": 1,
+      "exact_games": 1,
       "close_games": 0,
       "by_round": {
-        "1": 0,
+        "1": 3,
         "2": 0,
         "3": 0,
         "4": 0
@@ -99,12 +71,40 @@
     {
       "player_id": "zach",
       "name": "Zach",
-      "total": 0,
-      "correct_winners": 0,
+      "total": 3,
+      "correct_winners": 1,
+      "exact_games": 1,
+      "close_games": 0,
+      "by_round": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      }
+    },
+    {
+      "player_id": "joe",
+      "name": "Joe",
+      "total": 2,
+      "correct_winners": 1,
+      "exact_games": 0,
+      "close_games": 1,
+      "by_round": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      }
+    },
+    {
+      "player_id": "bennett",
+      "name": "Bennett",
+      "total": 1,
+      "correct_winners": 1,
       "exact_games": 0,
       "close_games": 0,
       "by_round": {
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 0,
         "4": 0

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T23:57:01Z",
+  "last_updated": "2026-04-28T04:35:54Z",
   "season": "2025-26",
   "series": [
     {
@@ -18,9 +18,9 @@
         "name": "Orlando Magic"
       },
       "top_wins": 1,
-      "bottom_wins": 2,
+      "bottom_wins": 3,
       "winner": null,
-      "games_played": 3,
+      "games_played": 4,
       "status": "in_progress"
     },
     {
@@ -101,11 +101,11 @@
         "seed": 8,
         "name": "Phoenix Suns"
       },
-      "top_wins": 3,
+      "top_wins": 4,
       "bottom_wins": 0,
-      "winner": null,
-      "games_played": 3,
-      "status": "in_progress"
+      "winner": "OKC",
+      "games_played": 4,
+      "status": "complete"
     },
     {
       "id": "W2",
