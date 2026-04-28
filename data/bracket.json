@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T04:35:54Z",
+  "last_updated": "2026-04-28T06:09:53Z",
   "season": "2025-26",
   "series": [
     {
@@ -143,10 +143,10 @@
         "seed": 6,
         "name": "Minnesota Timberwolves"
       },
-      "top_wins": 1,
+      "top_wins": 2,
       "bottom_wins": 3,
       "winner": null,
-      "games_played": 4,
+      "games_played": 5,
       "status": "in_progress"
     },
     {
