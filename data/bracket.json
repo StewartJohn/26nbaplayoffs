@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T04:34:32Z",
+  "last_updated": "2026-04-30T06:08:19Z",
   "season": "2025-26",
   "series": [
     {
@@ -123,9 +123,9 @@
         "name": "Houston Rockets"
       },
       "top_wins": 3,
-      "bottom_wins": 1,
+      "bottom_wins": 2,
       "winner": null,
-      "games_played": 4,
+      "games_played": 5,
       "status": "in_progress"
     },
     {
