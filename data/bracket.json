@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T23:55:40Z",
+  "last_updated": "2026-05-01T04:52:03Z",
   "season": "2025-26",
   "series": [
     {
@@ -59,11 +59,11 @@
         "seed": 6,
         "name": "Atlanta Hawks"
       },
-      "top_wins": 3,
+      "top_wins": 4,
       "bottom_wins": 2,
-      "winner": null,
-      "games_played": 5,
-      "status": "in_progress"
+      "winner": "NYK",
+      "games_played": 6,
+      "status": "complete"
     },
     {
       "id": "E4",
@@ -81,9 +81,9 @@
         "name": "Philadelphia 76ers"
       },
       "top_wins": 3,
-      "bottom_wins": 2,
+      "bottom_wins": 3,
       "winner": null,
-      "games_played": 5,
+      "games_played": 6,
       "status": "in_progress"
     },
     {
@@ -144,10 +144,10 @@
         "name": "Minnesota Timberwolves"
       },
       "top_wins": 2,
-      "bottom_wins": 3,
-      "winner": null,
-      "games_played": 5,
-      "status": "in_progress"
+      "bottom_wins": 4,
+      "winner": "MIN",
+      "games_played": 6,
+      "status": "complete"
     },
     {
       "id": "W4",
@@ -214,8 +214,16 @@
       "round": 2,
       "conference": "West",
       "feeds_into": "WF",
-      "top_team": null,
-      "bottom_team": null,
+      "top_team": {
+        "abbr": "SAS",
+        "seed": 2,
+        "name": "San Antonio Spurs"
+      },
+      "bottom_team": {
+        "abbr": "MIN",
+        "seed": 6,
+        "name": "Minnesota Timberwolves"
+      },
       "top_wins": 0,
       "bottom_wins": 0,
       "winner": null,
