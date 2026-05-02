@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T23:55:55Z",
+  "last_updated": "2026-05-02T04:20:04Z",
   "season": "2025-26",
   "series": [
     {
@@ -17,10 +17,10 @@
         "seed": 8,
         "name": "Orlando Magic"
       },
-      "top_wins": 2,
+      "top_wins": 3,
       "bottom_wins": 3,
       "winner": null,
-      "games_played": 5,
+      "games_played": 6,
       "status": "in_progress"
     },
     {
@@ -39,9 +39,9 @@
         "name": "Toronto Raptors"
       },
       "top_wins": 3,
-      "bottom_wins": 2,
+      "bottom_wins": 3,
       "winner": null,
-      "games_played": 5,
+      "games_played": 6,
       "status": "in_progress"
     },
     {
@@ -122,11 +122,11 @@
         "seed": 5,
         "name": "Houston Rockets"
       },
-      "top_wins": 3,
+      "top_wins": 4,
       "bottom_wins": 2,
-      "winner": null,
-      "games_played": 5,
-      "status": "in_progress"
+      "winner": "LAL",
+      "games_played": 6,
+      "status": "complete"
     },
     {
       "id": "W3",
@@ -201,8 +201,16 @@
       "round": 2,
       "conference": "West",
       "feeds_into": "WF",
-      "top_team": null,
-      "bottom_team": null,
+      "top_team": {
+        "abbr": "OKC",
+        "seed": 1,
+        "name": "Oklahoma City Thunder"
+      },
+      "bottom_team": {
+        "abbr": "LAL",
+        "seed": 4,
+        "name": "Los Angeles Lakers"
+      },
       "top_wins": 0,
       "bottom_wins": 0,
       "winner": null,
