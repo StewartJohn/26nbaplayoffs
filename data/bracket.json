@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T23:50:57Z",
+  "last_updated": "2026-05-03T04:42:32Z",
   "season": "2025-26",
   "series": [
     {
@@ -81,10 +81,10 @@
         "name": "Philadelphia 76ers"
       },
       "top_wins": 3,
-      "bottom_wins": 3,
-      "winner": null,
-      "games_played": 6,
-      "status": "in_progress"
+      "bottom_wins": 4,
+      "winner": "PHI",
+      "games_played": 7,
+      "status": "complete"
     },
     {
       "id": "W1",
@@ -188,8 +188,16 @@
       "round": 2,
       "conference": "East",
       "feeds_into": "EF",
-      "top_team": null,
-      "bottom_team": null,
+      "top_team": {
+        "abbr": "NYK",
+        "seed": 3,
+        "name": "New York Knicks"
+      },
+      "bottom_team": {
+        "abbr": "PHI",
+        "seed": 7,
+        "name": "Philadelphia 76ers"
+      },
       "top_wins": 0,
       "bottom_wins": 0,
       "winner": null,
