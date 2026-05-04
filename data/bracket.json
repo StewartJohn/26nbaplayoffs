@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T23:53:08Z",
+  "last_updated": "2026-05-04T04:42:14Z",
   "season": "2025-26",
   "series": [
     {
@@ -38,11 +38,11 @@
         "seed": 5,
         "name": "Toronto Raptors"
       },
-      "top_wins": 3,
+      "top_wins": 4,
       "bottom_wins": 3,
-      "winner": null,
-      "games_played": 6,
-      "status": "in_progress"
+      "winner": "CLE",
+      "games_played": 7,
+      "status": "complete"
     },
     {
       "id": "E3",
@@ -175,8 +175,16 @@
       "round": 2,
       "conference": "East",
       "feeds_into": "EF",
-      "top_team": null,
-      "bottom_team": null,
+      "top_team": {
+        "abbr": "DET",
+        "seed": 1,
+        "name": "Detroit Pistons"
+      },
+      "bottom_team": {
+        "abbr": "CLE",
+        "seed": 4,
+        "name": "Cleveland Cavaliers"
+      },
       "top_wins": 0,
       "bottom_wins": 0,
       "winner": null,
