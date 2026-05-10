@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T10:18:47Z",
+  "last_updated": "2026-05-10T23:56:20Z",
   "season": "2025-26",
   "series": [
     {
@@ -206,11 +206,11 @@
         "seed": 7,
         "name": "Philadelphia 76ers"
       },
-      "top_wins": 3,
+      "top_wins": 4,
       "bottom_wins": 0,
-      "winner": null,
-      "games_played": 3,
-      "status": "in_progress"
+      "winner": "NYK",
+      "games_played": 4,
+      "status": "complete"
     },
     {
       "id": "WS1",

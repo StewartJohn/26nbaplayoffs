@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T10:18:47Z",
+  "last_updated": "2026-05-10T23:56:20Z",
   "scoring_rules": {
     "winner_points_by_round": {
       "1": 1,
@@ -43,13 +43,41 @@
     {
       "player_id": "joe",
       "name": "Joe",
-      "total": 12,
-      "correct_winners": 5,
+      "total": 14,
+      "correct_winners": 6,
       "exact_games": 2,
       "close_games": 3,
       "by_round": {
         "1": 12,
-        "2": 0,
+        "2": 2,
+        "3": 0,
+        "4": 0
+      }
+    },
+    {
+      "player_id": "paul",
+      "name": "Paul",
+      "total": 13,
+      "correct_winners": 6,
+      "exact_games": 2,
+      "close_games": 2,
+      "by_round": {
+        "1": 11,
+        "2": 2,
+        "3": 0,
+        "4": 0
+      }
+    },
+    {
+      "player_id": "bennett",
+      "name": "Bennett",
+      "total": 11,
+      "correct_winners": 6,
+      "exact_games": 0,
+      "close_games": 4,
+      "by_round": {
+        "1": 9,
+        "2": 2,
         "3": 0,
         "4": 0
       }
@@ -63,34 +91,6 @@
       "close_games": 2,
       "by_round": {
         "1": 11,
-        "2": 0,
-        "3": 0,
-        "4": 0
-      }
-    },
-    {
-      "player_id": "paul",
-      "name": "Paul",
-      "total": 11,
-      "correct_winners": 5,
-      "exact_games": 2,
-      "close_games": 2,
-      "by_round": {
-        "1": 11,
-        "2": 0,
-        "3": 0,
-        "4": 0
-      }
-    },
-    {
-      "player_id": "bennett",
-      "name": "Bennett",
-      "total": 9,
-      "correct_winners": 5,
-      "exact_games": 0,
-      "close_games": 4,
-      "by_round": {
-        "1": 9,
         "2": 0,
         "3": 0,
         "4": 0
