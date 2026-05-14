@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T00:04:30Z",
+  "last_updated": "2026-05-14T04:49:25Z",
   "season": "2025-26",
   "series": [
     {
@@ -186,9 +186,9 @@
         "name": "Cleveland Cavaliers"
       },
       "top_wins": 2,
-      "bottom_wins": 2,
+      "bottom_wins": 3,
       "winner": null,
-      "games_played": 4,
+      "games_played": 5,
       "status": "in_progress"
     },
     {
