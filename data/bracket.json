@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T23:57:19Z",
+  "last_updated": "2026-05-16T04:31:09Z",
   "season": "2025-26",
   "series": [
     {
@@ -185,10 +185,10 @@
         "seed": 4,
         "name": "Cleveland Cavaliers"
       },
-      "top_wins": 2,
+      "top_wins": 3,
       "bottom_wins": 3,
       "winner": null,
-      "games_played": 5,
+      "games_played": 6,
       "status": "in_progress"
     },
     {
@@ -248,11 +248,11 @@
         "seed": 6,
         "name": "Minnesota Timberwolves"
       },
-      "top_wins": 3,
+      "top_wins": 4,
       "bottom_wins": 2,
-      "winner": null,
-      "games_played": 5,
-      "status": "in_progress"
+      "winner": "SAS",
+      "games_played": 6,
+      "status": "complete"
     },
     {
       "id": "EF",
@@ -272,8 +272,16 @@
       "round": 3,
       "conference": "West",
       "feeds_into": "F",
-      "top_team": null,
-      "bottom_team": null,
+      "top_team": {
+        "abbr": "OKC",
+        "seed": 1,
+        "name": "Oklahoma City Thunder"
+      },
+      "bottom_team": {
+        "abbr": "SAS",
+        "seed": 2,
+        "name": "San Antonio Spurs"
+      },
       "top_wins": 0,
       "bottom_wins": 0,
       "winner": null,
