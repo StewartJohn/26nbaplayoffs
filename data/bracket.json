@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T23:59:40Z",
+  "last_updated": "2026-05-18T05:08:39Z",
   "season": "2025-26",
   "series": [
     {
@@ -186,10 +186,10 @@
         "name": "Cleveland Cavaliers"
       },
       "top_wins": 3,
-      "bottom_wins": 3,
-      "winner": null,
-      "games_played": 6,
-      "status": "in_progress"
+      "bottom_wins": 4,
+      "winner": "CLE",
+      "games_played": 7,
+      "status": "complete"
     },
     {
       "id": "ES2",
@@ -259,8 +259,16 @@
       "round": 3,
       "conference": "East",
       "feeds_into": "F",
-      "top_team": null,
-      "bottom_team": null,
+      "top_team": {
+        "abbr": "NYK",
+        "seed": 3,
+        "name": "New York Knicks"
+      },
+      "bottom_team": {
+        "abbr": "CLE",
+        "seed": 4,
+        "name": "Cleveland Cavaliers"
+      },
       "top_wins": 0,
       "bottom_wins": 0,
       "winner": null,

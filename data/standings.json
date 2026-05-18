@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T23:59:40Z",
+  "last_updated": "2026-05-18T05:08:39Z",
   "scoring_rules": {
     "winner_points_by_round": {
       "1": 1,
@@ -12,6 +12,34 @@
     "note": "Points are awarded only after a series completes. Winner points by round (R1/R2/CF/F) = 1/2/4/8. If the series length prediction matches exactly, +2; if off by one game, +1."
   },
   "standings": [
+    {
+      "player_id": "sam",
+      "name": "Sam",
+      "total": 22,
+      "correct_winners": 8,
+      "exact_games": 5,
+      "close_games": 2,
+      "by_round": {
+        "1": 16,
+        "2": 6,
+        "3": 0,
+        "4": 0
+      }
+    },
+    {
+      "player_id": "joe",
+      "name": "Joe",
+      "total": 21,
+      "correct_winners": 8,
+      "exact_games": 3,
+      "close_games": 4,
+      "by_round": {
+        "1": 12,
+        "2": 9,
+        "3": 0,
+        "4": 0
+      }
+    },
     {
       "player_id": "zach",
       "name": "Zach",
@@ -27,15 +55,15 @@
       }
     },
     {
-      "player_id": "sam",
-      "name": "Sam",
-      "total": 19,
-      "correct_winners": 7,
-      "exact_games": 5,
-      "close_games": 1,
+      "player_id": "paul",
+      "name": "Paul",
+      "total": 20,
+      "correct_winners": 8,
+      "exact_games": 3,
+      "close_games": 3,
       "by_round": {
-        "1": 16,
-        "2": 3,
+        "1": 11,
+        "2": 9,
         "3": 0,
         "4": 0
       }
@@ -55,20 +83,6 @@
       }
     },
     {
-      "player_id": "joe",
-      "name": "Joe",
-      "total": 17,
-      "correct_winners": 7,
-      "exact_games": 2,
-      "close_games": 4,
-      "by_round": {
-        "1": 12,
-        "2": 5,
-        "3": 0,
-        "4": 0
-      }
-    },
-    {
       "player_id": "bennett",
       "name": "Bennett",
       "total": 16,
@@ -83,29 +97,15 @@
       }
     },
     {
-      "player_id": "paul",
-      "name": "Paul",
-      "total": 16,
-      "correct_winners": 7,
-      "exact_games": 2,
-      "close_games": 3,
-      "by_round": {
-        "1": 11,
-        "2": 5,
-        "3": 0,
-        "4": 0
-      }
-    },
-    {
       "player_id": "ryan",
       "name": "Ryan",
-      "total": 11,
-      "correct_winners": 5,
+      "total": 14,
+      "correct_winners": 6,
       "exact_games": 1,
-      "close_games": 3,
+      "close_games": 4,
       "by_round": {
         "1": 8,
-        "2": 3,
+        "2": 6,
         "3": 0,
         "4": 0
       }
