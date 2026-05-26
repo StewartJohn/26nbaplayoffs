@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T00:09:17Z",
+  "last_updated": "2026-05-26T05:06:01Z",
   "scoring_rules": {
     "winner_points_by_round": {
       "1": 1,
@@ -12,6 +12,20 @@
     "note": "Points are awarded only after a series completes. Winner points by round (R1/R2/CF/F) = 1/2/4/8. If the series length prediction matches exactly, +2; if off by one game, +1."
   },
   "standings": [
+    {
+      "player_id": "paul",
+      "name": "Paul",
+      "total": 24,
+      "correct_winners": 9,
+      "exact_games": 3,
+      "close_games": 3,
+      "by_round": {
+        "1": 11,
+        "2": 9,
+        "3": 4,
+        "4": 0
+      }
+    },
     {
       "player_id": "sam",
       "name": "Sam",
@@ -55,16 +69,16 @@
       }
     },
     {
-      "player_id": "paul",
-      "name": "Paul",
+      "player_id": "bennett",
+      "name": "Bennett",
       "total": 20,
-      "correct_winners": 8,
-      "exact_games": 3,
-      "close_games": 3,
+      "correct_winners": 9,
+      "exact_games": 0,
+      "close_games": 5,
       "by_round": {
-        "1": 11,
-        "2": 9,
-        "3": 0,
+        "1": 9,
+        "2": 7,
+        "3": 4,
         "4": 0
       }
     },
@@ -77,20 +91,6 @@
       "close_games": 3,
       "by_round": {
         "1": 11,
-        "2": 7,
-        "3": 0,
-        "4": 0
-      }
-    },
-    {
-      "player_id": "bennett",
-      "name": "Bennett",
-      "total": 16,
-      "correct_winners": 8,
-      "exact_games": 0,
-      "close_games": 5,
-      "by_round": {
-        "1": 9,
         "2": 7,
         "3": 0,
         "4": 0

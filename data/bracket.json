@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T00:09:17Z",
+  "last_updated": "2026-05-26T05:06:01Z",
   "season": "2025-26",
   "series": [
     {
@@ -269,11 +269,11 @@
         "seed": 4,
         "name": "Cleveland Cavaliers"
       },
-      "top_wins": 3,
+      "top_wins": 4,
       "bottom_wins": 0,
-      "winner": null,
-      "games_played": 3,
-      "status": "in_progress"
+      "winner": "NYK",
+      "games_played": 4,
+      "status": "complete"
     },
     {
       "id": "WF",
