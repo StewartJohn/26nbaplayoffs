@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T00:13:58Z",
+  "last_updated": "2026-05-29T05:15:58Z",
   "season": "2025-26",
   "series": [
     {
@@ -291,9 +291,9 @@
         "name": "San Antonio Spurs"
       },
       "top_wins": 3,
-      "bottom_wins": 2,
+      "bottom_wins": 3,
       "winner": null,
-      "games_played": 5,
+      "games_played": 6,
       "status": "in_progress"
     },
     {
