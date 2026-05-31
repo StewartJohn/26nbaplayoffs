@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T00:04:22Z",
+  "last_updated": "2026-05-31T05:21:41Z",
   "scoring_rules": {
     "winner_points_by_round": {
       "1": 1,
@@ -12,6 +12,20 @@
     "note": "Points are awarded only after a series completes. Winner points by round (R1/R2/CF/F) = 1/2/4/8. If the series length prediction matches exactly, +2; if off by one game, +1."
   },
   "standings": [
+    {
+      "player_id": "zach",
+      "name": "Zach",
+      "total": 27,
+      "correct_winners": 9,
+      "exact_games": 4,
+      "close_games": 5,
+      "by_round": {
+        "1": 15,
+        "2": 6,
+        "3": 6,
+        "4": 0
+      }
+    },
     {
       "player_id": "paul",
       "name": "Paul",
@@ -50,20 +64,6 @@
       "by_round": {
         "1": 12,
         "2": 9,
-        "3": 0,
-        "4": 0
-      }
-    },
-    {
-      "player_id": "zach",
-      "name": "Zach",
-      "total": 21,
-      "correct_winners": 8,
-      "exact_games": 3,
-      "close_games": 5,
-      "by_round": {
-        "1": 15,
-        "2": 6,
         "3": 0,
         "4": 0
       }
