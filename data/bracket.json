@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T00:19:09Z",
+  "last_updated": "2026-06-11T05:53:33Z",
   "season": "2025-26",
   "series": [
     {
@@ -312,9 +312,9 @@
         "name": "New York Knicks"
       },
       "top_wins": 1,
-      "bottom_wins": 2,
+      "bottom_wins": 3,
       "winner": null,
-      "games_played": 3,
+      "games_played": 4,
       "status": "in_progress"
     }
   ]
