@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T00:15:11Z",
+  "last_updated": "2026-06-22T06:31:54Z",
   "scoring_rules": {
     "winner_points_by_round": {
       "1": 1,
@@ -13,57 +13,29 @@
   },
   "standings": [
     {
-      "player_id": "zach",
-      "name": "Zach",
-      "total": 27,
-      "correct_winners": 9,
-      "exact_games": 4,
-      "close_games": 5,
-      "by_round": {
-        "1": 15,
-        "2": 6,
-        "3": 6,
-        "4": 0
-      }
-    },
-    {
       "player_id": "paul",
       "name": "Paul",
-      "total": 24,
-      "correct_winners": 9,
-      "exact_games": 3,
-      "close_games": 3,
-      "by_round": {
-        "1": 11,
-        "2": 9,
-        "3": 4,
-        "4": 0
-      }
-    },
-    {
-      "player_id": "sam",
-      "name": "Sam",
-      "total": 22,
+      "total": 21,
       "correct_winners": 8,
-      "exact_games": 5,
+      "exact_games": 3,
       "close_games": 2,
       "by_round": {
-        "1": 16,
+        "1": 11,
         "2": 6,
-        "3": 0,
+        "3": 4,
         "4": 0
       }
     },
     {
       "player_id": "joe",
       "name": "Joe",
-      "total": 21,
-      "correct_winners": 8,
+      "total": 18,
+      "correct_winners": 7,
       "exact_games": 3,
-      "close_games": 4,
+      "close_games": 3,
       "by_round": {
         "1": 12,
-        "2": 9,
+        "2": 6,
         "3": 0,
         "4": 0
       }
@@ -71,27 +43,55 @@
     {
       "player_id": "bennett",
       "name": "Bennett",
-      "total": 20,
-      "correct_winners": 9,
+      "total": 16,
+      "correct_winners": 7,
       "exact_games": 0,
-      "close_games": 5,
+      "close_games": 4,
       "by_round": {
-        "1": 9,
-        "2": 7,
+        "1": 7,
+        "2": 5,
         "3": 4,
+        "4": 0
+      }
+    },
+    {
+      "player_id": "sam",
+      "name": "Sam",
+      "total": 16,
+      "correct_winners": 6,
+      "exact_games": 4,
+      "close_games": 1,
+      "by_round": {
+        "1": 13,
+        "2": 3,
+        "3": 0,
+        "4": 0
+      }
+    },
+    {
+      "player_id": "zach",
+      "name": "Zach",
+      "total": 16,
+      "correct_winners": 6,
+      "exact_games": 3,
+      "close_games": 3,
+      "by_round": {
+        "1": 13,
+        "2": 3,
+        "3": 0,
         "4": 0
       }
     },
     {
       "player_id": "john",
       "name": "John",
-      "total": 18,
-      "correct_winners": 7,
+      "total": 15,
+      "correct_winners": 6,
       "exact_games": 3,
-      "close_games": 3,
+      "close_games": 2,
       "by_round": {
         "1": 11,
-        "2": 7,
+        "2": 4,
         "3": 0,
         "4": 0
       }
@@ -99,13 +99,13 @@
     {
       "player_id": "ryan",
       "name": "Ryan",
-      "total": 14,
-      "correct_winners": 6,
+      "total": 11,
+      "correct_winners": 5,
       "exact_games": 1,
-      "close_games": 4,
+      "close_games": 3,
       "by_round": {
         "1": 8,
-        "2": 6,
+        "2": 3,
         "3": 0,
         "4": 0
       }

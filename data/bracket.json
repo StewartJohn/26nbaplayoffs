@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T00:15:11Z",
+  "last_updated": "2026-06-22T06:31:54Z",
   "season": "2025-26",
   "series": [
     {
@@ -122,11 +122,11 @@
         "seed": 5,
         "name": "Houston Rockets"
       },
-      "top_wins": 4,
+      "top_wins": 3,
       "bottom_wins": 2,
-      "winner": "LAL",
-      "games_played": 6,
-      "status": "complete"
+      "winner": null,
+      "games_played": 5,
+      "status": "in_progress"
     },
     {
       "id": "W3",
@@ -217,21 +217,13 @@
       "round": 2,
       "conference": "West",
       "feeds_into": "WF",
-      "top_team": {
-        "abbr": "OKC",
-        "seed": 1,
-        "name": "Oklahoma City Thunder"
-      },
-      "bottom_team": {
-        "abbr": "LAL",
-        "seed": 4,
-        "name": "Los Angeles Lakers"
-      },
-      "top_wins": 4,
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
       "bottom_wins": 0,
-      "winner": "OKC",
-      "games_played": 4,
-      "status": "complete"
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "WS2",
@@ -280,42 +272,26 @@
       "round": 3,
       "conference": "West",
       "feeds_into": "F",
-      "top_team": {
-        "abbr": "OKC",
-        "seed": 1,
-        "name": "Oklahoma City Thunder"
-      },
-      "bottom_team": {
-        "abbr": "SAS",
-        "seed": 2,
-        "name": "San Antonio Spurs"
-      },
-      "top_wins": 3,
-      "bottom_wins": 4,
-      "winner": "SAS",
-      "games_played": 7,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "F",
       "round": 4,
       "conference": "Finals",
       "feeds_into": null,
-      "top_team": {
-        "abbr": "SAS",
-        "seed": 2,
-        "name": "San Antonio Spurs"
-      },
-      "bottom_team": {
-        "abbr": "NYK",
-        "seed": 3,
-        "name": "New York Knicks"
-      },
-      "top_wins": 1,
-      "bottom_wins": 4,
-      "winner": "NYK",
-      "games_played": 5,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     }
   ]
 }
