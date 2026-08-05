@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T11:28:21Z",
+  "last_updated": "2026-08-05T00:06:48Z",
   "season": "2025-26",
   "series": [
     {
@@ -7,315 +7,195 @@
       "round": 1,
       "conference": "East",
       "feeds_into": "ES1",
-      "top_team": {
-        "abbr": "DET",
-        "seed": 1,
-        "name": "Detroit Pistons"
-      },
-      "bottom_team": {
-        "abbr": "ORL",
-        "seed": 8,
-        "name": "Orlando Magic"
-      },
-      "top_wins": 4,
-      "bottom_wins": 3,
-      "winner": "DET",
-      "games_played": 7,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "E2",
       "round": 1,
       "conference": "East",
       "feeds_into": "ES1",
-      "top_team": {
-        "abbr": "CLE",
-        "seed": 4,
-        "name": "Cleveland Cavaliers"
-      },
-      "bottom_team": {
-        "abbr": "TOR",
-        "seed": 5,
-        "name": "Toronto Raptors"
-      },
-      "top_wins": 4,
-      "bottom_wins": 3,
-      "winner": "CLE",
-      "games_played": 7,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "E3",
       "round": 1,
       "conference": "East",
       "feeds_into": "ES2",
-      "top_team": {
-        "abbr": "NYK",
-        "seed": 3,
-        "name": "New York Knicks"
-      },
-      "bottom_team": {
-        "abbr": "ATL",
-        "seed": 6,
-        "name": "Atlanta Hawks"
-      },
-      "top_wins": 4,
-      "bottom_wins": 2,
-      "winner": "NYK",
-      "games_played": 6,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "E4",
       "round": 1,
       "conference": "East",
       "feeds_into": "ES2",
-      "top_team": {
-        "abbr": "BOS",
-        "seed": 2,
-        "name": "Boston Celtics"
-      },
-      "bottom_team": {
-        "abbr": "PHI",
-        "seed": 7,
-        "name": "Philadelphia 76ers"
-      },
-      "top_wins": 3,
-      "bottom_wins": 4,
-      "winner": "PHI",
-      "games_played": 7,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "W1",
       "round": 1,
       "conference": "West",
       "feeds_into": "WS1",
-      "top_team": {
-        "abbr": "OKC",
-        "seed": 1,
-        "name": "Oklahoma City Thunder"
-      },
-      "bottom_team": {
-        "abbr": "PHX",
-        "seed": 8,
-        "name": "Phoenix Suns"
-      },
-      "top_wins": 4,
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
       "bottom_wins": 0,
-      "winner": "OKC",
-      "games_played": 4,
-      "status": "complete"
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "W2",
       "round": 1,
       "conference": "West",
       "feeds_into": "WS1",
-      "top_team": {
-        "abbr": "LAL",
-        "seed": 4,
-        "name": "Los Angeles Lakers"
-      },
-      "bottom_team": {
-        "abbr": "HOU",
-        "seed": 5,
-        "name": "Houston Rockets"
-      },
-      "top_wins": 4,
-      "bottom_wins": 2,
-      "winner": "LAL",
-      "games_played": 6,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "W3",
       "round": 1,
       "conference": "West",
       "feeds_into": "WS2",
-      "top_team": {
-        "abbr": "DEN",
-        "seed": 3,
-        "name": "Denver Nuggets"
-      },
-      "bottom_team": {
-        "abbr": "MIN",
-        "seed": 6,
-        "name": "Minnesota Timberwolves"
-      },
-      "top_wins": 2,
-      "bottom_wins": 4,
-      "winner": "MIN",
-      "games_played": 6,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "W4",
       "round": 1,
       "conference": "West",
       "feeds_into": "WS2",
-      "top_team": {
-        "abbr": "SAS",
-        "seed": 2,
-        "name": "San Antonio Spurs"
-      },
-      "bottom_team": {
-        "abbr": "POR",
-        "seed": 7,
-        "name": "Portland Trail Blazers"
-      },
-      "top_wins": 4,
-      "bottom_wins": 1,
-      "winner": "SAS",
-      "games_played": 5,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "ES1",
       "round": 2,
       "conference": "East",
       "feeds_into": "EF",
-      "top_team": {
-        "abbr": "DET",
-        "seed": 1,
-        "name": "Detroit Pistons"
-      },
-      "bottom_team": {
-        "abbr": "CLE",
-        "seed": 4,
-        "name": "Cleveland Cavaliers"
-      },
-      "top_wins": 3,
-      "bottom_wins": 4,
-      "winner": "CLE",
-      "games_played": 7,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "ES2",
       "round": 2,
       "conference": "East",
       "feeds_into": "EF",
-      "top_team": {
-        "abbr": "NYK",
-        "seed": 3,
-        "name": "New York Knicks"
-      },
-      "bottom_team": {
-        "abbr": "PHI",
-        "seed": 7,
-        "name": "Philadelphia 76ers"
-      },
-      "top_wins": 4,
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
       "bottom_wins": 0,
-      "winner": "NYK",
-      "games_played": 4,
-      "status": "complete"
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "WS1",
       "round": 2,
       "conference": "West",
       "feeds_into": "WF",
-      "top_team": {
-        "abbr": "OKC",
-        "seed": 1,
-        "name": "Oklahoma City Thunder"
-      },
-      "bottom_team": {
-        "abbr": "LAL",
-        "seed": 4,
-        "name": "Los Angeles Lakers"
-      },
-      "top_wins": 4,
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
       "bottom_wins": 0,
-      "winner": "OKC",
-      "games_played": 4,
-      "status": "complete"
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "WS2",
       "round": 2,
       "conference": "West",
       "feeds_into": "WF",
-      "top_team": {
-        "abbr": "SAS",
-        "seed": 2,
-        "name": "San Antonio Spurs"
-      },
-      "bottom_team": {
-        "abbr": "MIN",
-        "seed": 6,
-        "name": "Minnesota Timberwolves"
-      },
-      "top_wins": 4,
-      "bottom_wins": 2,
-      "winner": "SAS",
-      "games_played": 6,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "EF",
       "round": 3,
       "conference": "East",
       "feeds_into": "F",
-      "top_team": {
-        "abbr": "NYK",
-        "seed": 3,
-        "name": "New York Knicks"
-      },
-      "bottom_team": {
-        "abbr": "CLE",
-        "seed": 4,
-        "name": "Cleveland Cavaliers"
-      },
-      "top_wins": 4,
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
       "bottom_wins": 0,
-      "winner": "NYK",
-      "games_played": 4,
-      "status": "complete"
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "WF",
       "round": 3,
       "conference": "West",
       "feeds_into": "F",
-      "top_team": {
-        "abbr": "OKC",
-        "seed": 1,
-        "name": "Oklahoma City Thunder"
-      },
-      "bottom_team": {
-        "abbr": "SAS",
-        "seed": 2,
-        "name": "San Antonio Spurs"
-      },
-      "top_wins": 3,
-      "bottom_wins": 4,
-      "winner": "SAS",
-      "games_played": 7,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "F",
       "round": 4,
       "conference": "Finals",
       "feeds_into": null,
-      "top_team": {
-        "abbr": "SAS",
-        "seed": 2,
-        "name": "San Antonio Spurs"
-      },
-      "bottom_team": {
-        "abbr": "NYK",
-        "seed": 3,
-        "name": "New York Knicks"
-      },
-      "top_wins": 1,
-      "bottom_wins": 4,
-      "winner": "NYK",
-      "games_played": 5,
-      "status": "complete"
+      "top_team": null,
+      "bottom_team": null,
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     }
   ]
 }
