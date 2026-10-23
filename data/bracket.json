@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T01:20:11Z",
+  "last_updated": "2026-10-23T05:50:47Z",
   "season": "2025-26",
   "series": [
     {
@@ -8,14 +8,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "IND",
+        "abbr": "PHI",
         "seed": 1,
-        "name": "Indiana Pacers"
+        "name": "Philadelphia 76ers"
       },
       "bottom_team": {
-        "abbr": "CLE",
+        "abbr": "ORL",
         "seed": 8,
-        "name": "Cleveland Cavaliers"
+        "name": "Orlando Magic"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -29,14 +29,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "DET",
+        "abbr": "WAS",
         "seed": 4,
-        "name": "Detroit Pistons"
+        "name": "Washington Wizards"
       },
       "bottom_team": {
-        "abbr": "ATL",
+        "abbr": "DET",
         "seed": 5,
-        "name": "Atlanta Hawks"
+        "name": "Detroit Pistons"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -50,14 +50,14 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "WAS",
+        "abbr": "TOR",
         "seed": 3,
-        "name": "Washington Wizards"
+        "name": "Toronto Raptors"
       },
       "bottom_team": {
-        "abbr": "CHA",
+        "abbr": "ATL",
         "seed": 6,
-        "name": "Charlotte Hornets"
+        "name": "Atlanta Hawks"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -71,14 +71,14 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "TOR",
+        "abbr": "IND",
         "seed": 2,
-        "name": "Toronto Raptors"
+        "name": "Indiana Pacers"
       },
       "bottom_team": {
-        "abbr": "PHI",
+        "abbr": "CHA",
         "seed": 7,
-        "name": "Philadelphia 76ers"
+        "name": "Charlotte Hornets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -92,19 +92,19 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "MIN",
+        "abbr": "OKC",
         "seed": 1,
-        "name": "Minnesota Timberwolves"
+        "name": "Oklahoma City Thunder"
       },
       "bottom_team": {
-        "abbr": "DEN",
+        "abbr": "SAS",
         "seed": 8,
-        "name": "Denver Nuggets"
+        "name": "San Antonio Spurs"
       },
-      "top_wins": 4,
-      "bottom_wins": 2,
-      "winner": "MIN",
-      "games_played": 6,
+      "top_wins": 3,
+      "bottom_wins": 4,
+      "winner": "SAS",
+      "games_played": 7,
       "status": "complete"
     },
     {
@@ -113,14 +113,14 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "LAL",
+        "abbr": "LAC",
         "seed": 4,
-        "name": "Los Angeles Lakers"
+        "name": "LA Clippers"
       },
       "bottom_team": {
-        "abbr": "MEM",
+        "abbr": "LAL",
         "seed": 5,
-        "name": "Memphis Grizzlies"
+        "name": "Los Angeles Lakers"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -134,14 +134,14 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "LAC",
+        "abbr": "POR",
         "seed": 3,
-        "name": "LA Clippers"
+        "name": "Portland Trail Blazers"
       },
       "bottom_team": {
-        "abbr": "HOU",
+        "abbr": "MEM",
         "seed": 6,
-        "name": "Houston Rockets"
+        "name": "Memphis Grizzlies"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -155,14 +155,14 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "POR",
+        "abbr": "MIN",
         "seed": 2,
-        "name": "Portland Trail Blazers"
+        "name": "Minnesota Timberwolves"
       },
       "bottom_team": {
-        "abbr": "OKC",
+        "abbr": "HOU",
         "seed": 7,
-        "name": "Oklahoma City Thunder"
+        "name": "Houston Rockets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
