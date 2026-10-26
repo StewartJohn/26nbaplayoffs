@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T01:03:15Z",
+  "last_updated": "2026-10-26T05:52:31Z",
   "season": "2025-26",
   "series": [
     {
@@ -8,20 +8,20 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "PHI",
+        "abbr": "DET",
         "seed": 1,
-        "name": "Philadelphia 76ers"
+        "name": "Detroit Pistons"
       },
       "bottom_team": {
         "abbr": "CLE",
         "seed": 8,
         "name": "Cleveland Cavaliers"
       },
-      "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "top_wins": 3,
+      "bottom_wins": 4,
+      "winner": "CLE",
+      "games_played": 7,
+      "status": "complete"
     },
     {
       "id": "E2",
@@ -29,9 +29,9 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "ATL",
+        "abbr": "TOR",
         "seed": 4,
-        "name": "Atlanta Hawks"
+        "name": "Toronto Raptors"
       },
       "bottom_team": {
         "abbr": "IND",
@@ -50,9 +50,9 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "TOR",
+        "abbr": "ATL",
         "seed": 3,
-        "name": "Toronto Raptors"
+        "name": "Atlanta Hawks"
       },
       "bottom_team": {
         "abbr": "CHA",
@@ -71,9 +71,9 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "DET",
+        "abbr": "PHI",
         "seed": 2,
-        "name": "Detroit Pistons"
+        "name": "Philadelphia 76ers"
       },
       "bottom_team": {
         "abbr": "WAS",
@@ -92,14 +92,14 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "LAL",
+        "abbr": "MIN",
         "seed": 1,
-        "name": "Los Angeles Lakers"
+        "name": "Minnesota Timberwolves"
       },
       "bottom_team": {
-        "abbr": "DEN",
+        "abbr": "PHX",
         "seed": 8,
-        "name": "Denver Nuggets"
+        "name": "Phoenix Suns"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -113,14 +113,14 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "MIN",
+        "abbr": "MEM",
         "seed": 4,
-        "name": "Minnesota Timberwolves"
+        "name": "Memphis Grizzlies"
       },
       "bottom_team": {
-        "abbr": "POR",
+        "abbr": "HOU",
         "seed": 5,
-        "name": "Portland Trail Blazers"
+        "name": "Houston Rockets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -134,14 +134,14 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "OKC",
+        "abbr": "LAL",
         "seed": 3,
-        "name": "Oklahoma City Thunder"
+        "name": "Los Angeles Lakers"
       },
       "bottom_team": {
-        "abbr": "MEM",
+        "abbr": "POR",
         "seed": 6,
-        "name": "Memphis Grizzlies"
+        "name": "Portland Trail Blazers"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -155,14 +155,14 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "HOU",
+        "abbr": "OKC",
         "seed": 2,
-        "name": "Houston Rockets"
+        "name": "Oklahoma City Thunder"
       },
       "bottom_team": {
-        "abbr": "LAC",
+        "abbr": "DEN",
         "seed": 7,
-        "name": "LA Clippers"
+        "name": "Denver Nuggets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
