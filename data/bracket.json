@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T15:58:45Z",
+  "last_updated": "2026-10-27T01:53:15Z",
   "season": "2025-26",
   "series": [
     {
@@ -29,14 +29,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "TOR",
+        "abbr": "ATL",
         "seed": 4,
-        "name": "Toronto Raptors"
+        "name": "Atlanta Hawks"
       },
       "bottom_team": {
-        "abbr": "IND",
+        "abbr": "TOR",
         "seed": 5,
-        "name": "Indiana Pacers"
+        "name": "Toronto Raptors"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -50,14 +50,14 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "ATL",
+        "abbr": "CHA",
         "seed": 3,
-        "name": "Atlanta Hawks"
+        "name": "Charlotte Hornets"
       },
       "bottom_team": {
-        "abbr": "CHA",
+        "abbr": "IND",
         "seed": 6,
-        "name": "Charlotte Hornets"
+        "name": "Indiana Pacers"
       },
       "top_wins": 0,
       "bottom_wins": 0,
