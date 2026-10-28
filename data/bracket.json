@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T02:03:44Z",
+  "last_updated": "2026-10-28T06:43:36Z",
   "season": "2025-26",
   "series": [
     {
@@ -29,14 +29,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "TOR",
+        "abbr": "BOS",
         "seed": 4,
-        "name": "Toronto Raptors"
+        "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "BOS",
+        "abbr": "TOR",
         "seed": 5,
-        "name": "Boston Celtics"
+        "name": "Toronto Raptors"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -97,9 +97,9 @@
         "name": "Houston Rockets"
       },
       "bottom_team": {
-        "abbr": "SAS",
+        "abbr": "DAL",
         "seed": 8,
-        "name": "San Antonio Spurs"
+        "name": "Dallas Mavericks"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -113,14 +113,14 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "LAL",
+        "abbr": "POR",
         "seed": 4,
-        "name": "Los Angeles Lakers"
+        "name": "Portland Trail Blazers"
       },
       "bottom_team": {
-        "abbr": "POR",
+        "abbr": "LAL",
         "seed": 5,
-        "name": "Portland Trail Blazers"
+        "name": "Los Angeles Lakers"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -160,15 +160,15 @@
         "name": "Oklahoma City Thunder"
       },
       "bottom_team": {
-        "abbr": "DAL",
+        "abbr": "SAS",
         "seed": 7,
-        "name": "Dallas Mavericks"
+        "name": "San Antonio Spurs"
       },
-      "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "top_wins": 3,
+      "bottom_wins": 4,
+      "winner": "SAS",
+      "games_played": 7,
+      "status": "complete"
     },
     {
       "id": "ES1",
