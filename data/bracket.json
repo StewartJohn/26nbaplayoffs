@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T15:49:09Z",
+  "last_updated": "2026-10-29T02:13:53Z",
   "season": "2025-26",
   "series": [
     {
@@ -13,9 +13,9 @@
         "name": "Detroit Pistons"
       },
       "bottom_team": {
-        "abbr": "IND",
+        "abbr": "WAS",
         "seed": 8,
-        "name": "Indiana Pacers"
+        "name": "Washington Wizards"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -34,9 +34,9 @@
         "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "TOR",
+        "abbr": "CLE",
         "seed": 5,
-        "name": "Toronto Raptors"
+        "name": "Cleveland Cavaliers"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -50,14 +50,14 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "CHA",
+        "abbr": "TOR",
         "seed": 3,
-        "name": "Charlotte Hornets"
+        "name": "Toronto Raptors"
       },
       "bottom_team": {
-        "abbr": "CLE",
+        "abbr": "CHA",
         "seed": 6,
-        "name": "Cleveland Cavaliers"
+        "name": "Charlotte Hornets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
