@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T02:27:29Z",
+  "last_updated": "2026-10-30T06:54:34Z",
   "season": "2025-26",
   "series": [
     {
@@ -29,14 +29,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "BOS",
+        "abbr": "TOR",
         "seed": 4,
-        "name": "Boston Celtics"
+        "name": "Toronto Raptors"
       },
       "bottom_team": {
-        "abbr": "CLE",
+        "abbr": "CHA",
         "seed": 5,
-        "name": "Cleveland Cavaliers"
+        "name": "Charlotte Hornets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -50,14 +50,14 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "TOR",
+        "abbr": "BOS",
         "seed": 3,
-        "name": "Toronto Raptors"
+        "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "CHA",
+        "abbr": "CLE",
         "seed": 6,
-        "name": "Charlotte Hornets"
+        "name": "Cleveland Cavaliers"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -118,15 +118,15 @@
         "name": "Los Angeles Lakers"
       },
       "bottom_team": {
-        "abbr": "OKC",
+        "abbr": "POR",
         "seed": 5,
-        "name": "Oklahoma City Thunder"
+        "name": "Portland Trail Blazers"
       },
       "top_wins": 0,
-      "bottom_wins": 4,
-      "winner": "OKC",
-      "games_played": 4,
-      "status": "complete"
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "W3",
@@ -134,19 +134,19 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "POR",
+        "abbr": "OKC",
         "seed": 3,
-        "name": "Portland Trail Blazers"
+        "name": "Oklahoma City Thunder"
       },
       "bottom_team": {
         "abbr": "SAS",
         "seed": 6,
         "name": "San Antonio Spurs"
       },
-      "top_wins": 1,
+      "top_wins": 3,
       "bottom_wins": 4,
       "winner": "SAS",
-      "games_played": 5,
+      "games_played": 7,
       "status": "complete"
     },
     {
