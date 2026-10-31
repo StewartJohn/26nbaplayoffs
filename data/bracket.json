@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T15:44:13Z",
+  "last_updated": "2026-10-31T02:07:04Z",
   "season": "2025-26",
   "series": [
     {
@@ -13,9 +13,9 @@
         "name": "Detroit Pistons"
       },
       "bottom_team": {
-        "abbr": "NYK",
+        "abbr": "CHA",
         "seed": 8,
-        "name": "New York Knicks"
+        "name": "Charlotte Hornets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -34,15 +34,15 @@
         "name": "Toronto Raptors"
       },
       "bottom_team": {
-        "abbr": "CHA",
+        "abbr": "CLE",
         "seed": 5,
-        "name": "Charlotte Hornets"
+        "name": "Cleveland Cavaliers"
       },
-      "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "top_wins": 3,
+      "bottom_wins": 4,
+      "winner": "CLE",
+      "games_played": 7,
+      "status": "complete"
     },
     {
       "id": "E3",
@@ -55,9 +55,9 @@
         "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "CLE",
+        "abbr": "ATL",
         "seed": 6,
-        "name": "Cleveland Cavaliers"
+        "name": "Atlanta Hawks"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -76,9 +76,9 @@
         "name": "Philadelphia 76ers"
       },
       "bottom_team": {
-        "abbr": "ATL",
+        "abbr": "WAS",
         "seed": 7,
-        "name": "Atlanta Hawks"
+        "name": "Washington Wizards"
       },
       "top_wins": 0,
       "bottom_wins": 0,
