@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T01:59:19Z",
+  "last_updated": "2026-11-01T07:14:24Z",
   "season": "2025-26",
   "series": [
     {
@@ -29,17 +29,17 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "TOR",
-        "seed": 4,
-        "name": "Toronto Raptors"
-      },
-      "bottom_team": {
         "abbr": "CLE",
-        "seed": 5,
+        "seed": 4,
         "name": "Cleveland Cavaliers"
       },
-      "top_wins": 3,
-      "bottom_wins": 4,
+      "bottom_team": {
+        "abbr": "TOR",
+        "seed": 5,
+        "name": "Toronto Raptors"
+      },
+      "top_wins": 4,
+      "bottom_wins": 3,
       "winner": "CLE",
       "games_played": 7,
       "status": "complete"
@@ -97,9 +97,9 @@
         "name": "Memphis Grizzlies"
       },
       "bottom_team": {
-        "abbr": "SAS",
+        "abbr": "DEN",
         "seed": 8,
-        "name": "San Antonio Spurs"
+        "name": "Denver Nuggets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -113,20 +113,20 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "POR",
-        "seed": 4,
-        "name": "Portland Trail Blazers"
-      },
-      "bottom_team": {
         "abbr": "LAL",
-        "seed": 5,
+        "seed": 4,
         "name": "Los Angeles Lakers"
       },
+      "bottom_team": {
+        "abbr": "OKC",
+        "seed": 5,
+        "name": "Oklahoma City Thunder"
+      },
       "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "bottom_wins": 4,
+      "winner": "OKC",
+      "games_played": 4,
+      "status": "complete"
     },
     {
       "id": "W3",
@@ -134,20 +134,20 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "OKC",
+        "abbr": "POR",
         "seed": 3,
-        "name": "Oklahoma City Thunder"
+        "name": "Portland Trail Blazers"
       },
       "bottom_team": {
-        "abbr": "DAL",
+        "abbr": "SAS",
         "seed": 6,
-        "name": "Dallas Mavericks"
+        "name": "San Antonio Spurs"
       },
-      "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "top_wins": 1,
+      "bottom_wins": 4,
+      "winner": "SAS",
+      "games_played": 5,
+      "status": "complete"
     },
     {
       "id": "W4",
@@ -160,9 +160,9 @@
         "name": "Houston Rockets"
       },
       "bottom_team": {
-        "abbr": "MIN",
+        "abbr": "DAL",
         "seed": 7,
-        "name": "Minnesota Timberwolves"
+        "name": "Dallas Mavericks"
       },
       "top_wins": 0,
       "bottom_wins": 0,
