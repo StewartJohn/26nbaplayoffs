@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T15:11:39Z",
+  "last_updated": "2026-11-01T01:59:19Z",
   "season": "2025-26",
   "series": [
     {
@@ -8,9 +8,9 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "DET",
+        "abbr": "PHI",
         "seed": 1,
-        "name": "Detroit Pistons"
+        "name": "Philadelphia 76ers"
       },
       "bottom_team": {
         "abbr": "CHA",
@@ -55,9 +55,9 @@
         "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "ATL",
+        "abbr": "WAS",
         "seed": 6,
-        "name": "Atlanta Hawks"
+        "name": "Washington Wizards"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -71,14 +71,14 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "PHI",
+        "abbr": "DET",
         "seed": 2,
-        "name": "Philadelphia 76ers"
+        "name": "Detroit Pistons"
       },
       "bottom_team": {
-        "abbr": "WAS",
+        "abbr": "ATL",
         "seed": 7,
-        "name": "Washington Wizards"
+        "name": "Atlanta Hawks"
       },
       "top_wins": 0,
       "bottom_wins": 0,
