@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T19:18:55Z",
+  "last_updated": "2026-11-03T03:52:28Z",
   "season": "2025-26",
   "series": [
     {
@@ -13,15 +13,15 @@
         "name": "Philadelphia 76ers"
       },
       "bottom_team": {
-        "abbr": "CHA",
+        "abbr": "NYK",
         "seed": 8,
-        "name": "Charlotte Hornets"
+        "name": "New York Knicks"
       },
       "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "bottom_wins": 4,
+      "winner": "NYK",
+      "games_played": 4,
+      "status": "complete"
     },
     {
       "id": "E2",
@@ -34,15 +34,15 @@
         "name": "Cleveland Cavaliers"
       },
       "bottom_team": {
-        "abbr": "TOR",
+        "abbr": "WAS",
         "seed": 5,
-        "name": "Toronto Raptors"
+        "name": "Washington Wizards"
       },
-      "top_wins": 4,
-      "bottom_wins": 3,
-      "winner": "CLE",
-      "games_played": 7,
-      "status": "complete"
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "E3",
@@ -55,9 +55,9 @@
         "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "WAS",
+        "abbr": "ATL",
         "seed": 6,
-        "name": "Washington Wizards"
+        "name": "Atlanta Hawks"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -76,9 +76,9 @@
         "name": "Detroit Pistons"
       },
       "bottom_team": {
-        "abbr": "ATL",
+        "abbr": "TOR",
         "seed": 7,
-        "name": "Atlanta Hawks"
+        "name": "Toronto Raptors"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -92,9 +92,9 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "MEM",
+        "abbr": "HOU",
         "seed": 1,
-        "name": "Memphis Grizzlies"
+        "name": "Houston Rockets"
       },
       "bottom_team": {
         "abbr": "DEN",
@@ -155,14 +155,14 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "HOU",
+        "abbr": "MEM",
         "seed": 2,
-        "name": "Houston Rockets"
+        "name": "Memphis Grizzlies"
       },
       "bottom_team": {
-        "abbr": "DAL",
+        "abbr": "MIN",
         "seed": 7,
-        "name": "Dallas Mavericks"
+        "name": "Minnesota Timberwolves"
       },
       "top_wins": 0,
       "bottom_wins": 0,
