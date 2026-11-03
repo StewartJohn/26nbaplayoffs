@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T03:52:28Z",
+  "last_updated": "2026-11-03T07:43:52Z",
   "season": "2025-26",
   "series": [
     {
@@ -29,14 +29,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "CLE",
+        "abbr": "WAS",
         "seed": 4,
-        "name": "Cleveland Cavaliers"
+        "name": "Washington Wizards"
       },
       "bottom_team": {
-        "abbr": "WAS",
+        "abbr": "TOR",
         "seed": 5,
-        "name": "Washington Wizards"
+        "name": "Toronto Raptors"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -55,9 +55,9 @@
         "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "ATL",
+        "abbr": "CLE",
         "seed": 6,
-        "name": "Atlanta Hawks"
+        "name": "Cleveland Cavaliers"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -76,9 +76,9 @@
         "name": "Detroit Pistons"
       },
       "bottom_team": {
-        "abbr": "TOR",
+        "abbr": "ATL",
         "seed": 7,
-        "name": "Toronto Raptors"
+        "name": "Atlanta Hawks"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -97,9 +97,9 @@
         "name": "Houston Rockets"
       },
       "bottom_team": {
-        "abbr": "DEN",
+        "abbr": "MIN",
         "seed": 8,
-        "name": "Denver Nuggets"
+        "name": "Minnesota Timberwolves"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -160,9 +160,9 @@
         "name": "Memphis Grizzlies"
       },
       "bottom_team": {
-        "abbr": "MIN",
+        "abbr": "GSW",
         "seed": 7,
-        "name": "Minnesota Timberwolves"
+        "name": "Golden State Warriors"
       },
       "top_wins": 0,
       "bottom_wins": 0,
