@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T02:37:45Z",
+  "last_updated": "2026-11-07T06:55:00Z",
   "season": "2025-26",
   "series": [
     {
@@ -92,14 +92,14 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "POR",
+        "abbr": "LAL",
         "seed": 1,
-        "name": "Portland Trail Blazers"
+        "name": "Los Angeles Lakers"
       },
       "bottom_team": {
-        "abbr": "MIN",
+        "abbr": "GSW",
         "seed": 8,
-        "name": "Minnesota Timberwolves"
+        "name": "Golden State Warriors"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -113,19 +113,19 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "OKC",
-        "seed": 4,
-        "name": "Oklahoma City Thunder"
-      },
-      "bottom_team": {
         "abbr": "SAS",
-        "seed": 5,
+        "seed": 4,
         "name": "San Antonio Spurs"
       },
-      "top_wins": 3,
-      "bottom_wins": 4,
+      "bottom_team": {
+        "abbr": "POR",
+        "seed": 5,
+        "name": "Portland Trail Blazers"
+      },
+      "top_wins": 4,
+      "bottom_wins": 1,
       "winner": "SAS",
-      "games_played": 7,
+      "games_played": 5,
       "status": "complete"
     },
     {
@@ -134,14 +134,14 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "HOU",
+        "abbr": "OKC",
         "seed": 3,
-        "name": "Houston Rockets"
+        "name": "Oklahoma City Thunder"
       },
       "bottom_team": {
-        "abbr": "MEM",
+        "abbr": "MIN",
         "seed": 6,
-        "name": "Memphis Grizzlies"
+        "name": "Minnesota Timberwolves"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -155,14 +155,14 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "LAL",
+        "abbr": "HOU",
         "seed": 2,
-        "name": "Los Angeles Lakers"
+        "name": "Houston Rockets"
       },
       "bottom_team": {
-        "abbr": "GSW",
+        "abbr": "MEM",
         "seed": 7,
-        "name": "Golden State Warriors"
+        "name": "Memphis Grizzlies"
       },
       "top_wins": 0,
       "bottom_wins": 0,
