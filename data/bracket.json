@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T16:39:27Z",
+  "last_updated": "2026-11-07T02:37:45Z",
   "season": "2025-26",
   "series": [
     {
@@ -50,20 +50,20 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "BOS",
+        "abbr": "DET",
         "seed": 3,
-        "name": "Boston Celtics"
+        "name": "Detroit Pistons"
       },
       "bottom_team": {
         "abbr": "CLE",
         "seed": 6,
         "name": "Cleveland Cavaliers"
       },
-      "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "top_wins": 3,
+      "bottom_wins": 4,
+      "winner": "CLE",
+      "games_played": 7,
+      "status": "complete"
     },
     {
       "id": "E4",
@@ -71,9 +71,9 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "DET",
+        "abbr": "BOS",
         "seed": 2,
-        "name": "Detroit Pistons"
+        "name": "Boston Celtics"
       },
       "bottom_team": {
         "abbr": "NYK",
