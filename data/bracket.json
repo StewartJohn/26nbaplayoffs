@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T04:31:20Z",
+  "last_updated": "2026-11-10T08:06:31Z",
   "season": "2025-26",
   "series": [
     {
@@ -113,14 +113,14 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "MIN",
+        "abbr": "GSW",
         "seed": 4,
-        "name": "Minnesota Timberwolves"
+        "name": "Golden State Warriors"
       },
       "bottom_team": {
-        "abbr": "HOU",
+        "abbr": "MIN",
         "seed": 5,
-        "name": "Houston Rockets"
+        "name": "Minnesota Timberwolves"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -139,9 +139,9 @@
         "name": "Oklahoma City Thunder"
       },
       "bottom_team": {
-        "abbr": "MEM",
+        "abbr": "HOU",
         "seed": 6,
-        "name": "Memphis Grizzlies"
+        "name": "Houston Rockets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -160,9 +160,9 @@
         "name": "San Antonio Spurs"
       },
       "bottom_team": {
-        "abbr": "GSW",
+        "abbr": "MEM",
         "seed": 7,
-        "name": "Golden State Warriors"
+        "name": "Memphis Grizzlies"
       },
       "top_wins": 0,
       "bottom_wins": 0,
