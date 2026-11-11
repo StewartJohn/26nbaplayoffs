@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T02:37:27Z",
+  "last_updated": "2026-11-11T07:36:48Z",
   "season": "2025-26",
   "series": [
     {
@@ -8,14 +8,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "PHI",
+        "abbr": "BOS",
         "seed": 1,
-        "name": "Philadelphia 76ers"
+        "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "MIA",
+        "abbr": "CLE",
         "seed": 8,
-        "name": "Miami Heat"
+        "name": "Cleveland Cavaliers"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -29,17 +29,17 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "ATL",
-        "seed": 4,
-        "name": "Atlanta Hawks"
-      },
-      "bottom_team": {
         "abbr": "NYK",
-        "seed": 5,
+        "seed": 4,
         "name": "New York Knicks"
       },
-      "top_wins": 2,
-      "bottom_wins": 4,
+      "bottom_team": {
+        "abbr": "ATL",
+        "seed": 5,
+        "name": "Atlanta Hawks"
+      },
+      "top_wins": 4,
+      "bottom_wins": 2,
       "winner": "NYK",
       "games_played": 6,
       "status": "complete"
@@ -71,14 +71,14 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "BOS",
+        "abbr": "PHI",
         "seed": 2,
-        "name": "Boston Celtics"
+        "name": "Philadelphia 76ers"
       },
       "bottom_team": {
-        "abbr": "CLE",
+        "abbr": "MIA",
         "seed": 7,
-        "name": "Cleveland Cavaliers"
+        "name": "Miami Heat"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -113,14 +113,14 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "GSW",
+        "abbr": "HOU",
         "seed": 4,
-        "name": "Golden State Warriors"
+        "name": "Houston Rockets"
       },
       "bottom_team": {
-        "abbr": "MIN",
+        "abbr": "GSW",
         "seed": 5,
-        "name": "Minnesota Timberwolves"
+        "name": "Golden State Warriors"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -134,14 +134,14 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "OKC",
+        "abbr": "MIN",
         "seed": 3,
-        "name": "Oklahoma City Thunder"
+        "name": "Minnesota Timberwolves"
       },
       "bottom_team": {
-        "abbr": "HOU",
+        "abbr": "OKC",
         "seed": 6,
-        "name": "Houston Rockets"
+        "name": "Oklahoma City Thunder"
       },
       "top_wins": 0,
       "bottom_wins": 0,
