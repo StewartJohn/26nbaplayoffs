@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T03:40:35Z",
+  "last_updated": "2026-11-12T08:03:30Z",
   "season": "2025-26",
   "series": [
     {
@@ -113,14 +113,14 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "HOU",
+        "abbr": "POR",
         "seed": 4,
-        "name": "Houston Rockets"
+        "name": "Portland Trail Blazers"
       },
       "bottom_team": {
-        "abbr": "GSW",
+        "abbr": "MIN",
         "seed": 5,
-        "name": "Golden State Warriors"
+        "name": "Minnesota Timberwolves"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -134,14 +134,14 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "MIN",
+        "abbr": "HOU",
         "seed": 3,
-        "name": "Minnesota Timberwolves"
+        "name": "Houston Rockets"
       },
       "bottom_team": {
-        "abbr": "OKC",
+        "abbr": "GSW",
         "seed": 6,
-        "name": "Oklahoma City Thunder"
+        "name": "Golden State Warriors"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -160,14 +160,14 @@
         "name": "San Antonio Spurs"
       },
       "bottom_team": {
-        "abbr": "POR",
+        "abbr": "OKC",
         "seed": 7,
-        "name": "Portland Trail Blazers"
+        "name": "Oklahoma City Thunder"
       },
       "top_wins": 4,
-      "bottom_wins": 1,
+      "bottom_wins": 3,
       "winner": "SAS",
-      "games_played": 5,
+      "games_played": 7,
       "status": "complete"
     },
     {
