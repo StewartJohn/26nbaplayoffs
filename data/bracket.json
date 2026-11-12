@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T16:58:59Z",
+  "last_updated": "2026-11-12T03:40:35Z",
   "season": "2025-26",
   "series": [
     {
@@ -13,9 +13,9 @@
         "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "CLE",
+        "abbr": "MIA",
         "seed": 8,
-        "name": "Cleveland Cavaliers"
+        "name": "Miami Heat"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -29,17 +29,17 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "NYK",
-        "seed": 4,
-        "name": "New York Knicks"
-      },
-      "bottom_team": {
         "abbr": "ATL",
-        "seed": 5,
+        "seed": 4,
         "name": "Atlanta Hawks"
       },
-      "top_wins": 4,
-      "bottom_wins": 2,
+      "bottom_team": {
+        "abbr": "NYK",
+        "seed": 5,
+        "name": "New York Knicks"
+      },
+      "top_wins": 2,
+      "bottom_wins": 4,
       "winner": "NYK",
       "games_played": 6,
       "status": "complete"
@@ -55,15 +55,15 @@
         "name": "Detroit Pistons"
       },
       "bottom_team": {
-        "abbr": "TOR",
+        "abbr": "CLE",
         "seed": 6,
-        "name": "Toronto Raptors"
+        "name": "Cleveland Cavaliers"
       },
-      "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "top_wins": 3,
+      "bottom_wins": 4,
+      "winner": "CLE",
+      "games_played": 7,
+      "status": "complete"
     },
     {
       "id": "E4",
@@ -76,9 +76,9 @@
         "name": "Philadelphia 76ers"
       },
       "bottom_team": {
-        "abbr": "MIA",
+        "abbr": "TOR",
         "seed": 7,
-        "name": "Miami Heat"
+        "name": "Toronto Raptors"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -97,9 +97,9 @@
         "name": "Los Angeles Lakers"
       },
       "bottom_team": {
-        "abbr": "POR",
+        "abbr": "DAL",
         "seed": 8,
-        "name": "Portland Trail Blazers"
+        "name": "Dallas Mavericks"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -160,15 +160,15 @@
         "name": "San Antonio Spurs"
       },
       "bottom_team": {
-        "abbr": "MEM",
+        "abbr": "POR",
         "seed": 7,
-        "name": "Memphis Grizzlies"
+        "name": "Portland Trail Blazers"
       },
-      "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "top_wins": 4,
+      "bottom_wins": 1,
+      "winner": "SAS",
+      "games_played": 5,
+      "status": "complete"
     },
     {
       "id": "ES1",
