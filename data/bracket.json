@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T17:27:37Z",
+  "last_updated": "2026-11-13T03:17:00Z",
   "season": "2025-26",
   "series": [
     {
@@ -13,9 +13,9 @@
         "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "MIA",
+        "abbr": "TOR",
         "seed": 8,
-        "name": "Miami Heat"
+        "name": "Toronto Raptors"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -76,9 +76,9 @@
         "name": "Philadelphia 76ers"
       },
       "bottom_team": {
-        "abbr": "TOR",
+        "abbr": "MIA",
         "seed": 7,
-        "name": "Toronto Raptors"
+        "name": "Miami Heat"
       },
       "top_wins": 0,
       "bottom_wins": 0,
