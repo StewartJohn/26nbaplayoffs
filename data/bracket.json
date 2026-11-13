@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T03:17:00Z",
+  "last_updated": "2026-11-13T07:41:50Z",
   "season": "2025-26",
   "series": [
     {
@@ -97,9 +97,9 @@
         "name": "Los Angeles Lakers"
       },
       "bottom_team": {
-        "abbr": "DAL",
+        "abbr": "MEM",
         "seed": 8,
-        "name": "Dallas Mavericks"
+        "name": "Memphis Grizzlies"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -113,14 +113,14 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "POR",
+        "abbr": "HOU",
         "seed": 4,
-        "name": "Portland Trail Blazers"
+        "name": "Houston Rockets"
       },
       "bottom_team": {
-        "abbr": "MIN",
+        "abbr": "POR",
         "seed": 5,
-        "name": "Minnesota Timberwolves"
+        "name": "Portland Trail Blazers"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -134,9 +134,9 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "HOU",
+        "abbr": "MIN",
         "seed": 3,
-        "name": "Houston Rockets"
+        "name": "Minnesota Timberwolves"
       },
       "bottom_team": {
         "abbr": "GSW",
