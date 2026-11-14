@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T17:01:35Z",
+  "last_updated": "2026-11-14T02:58:02Z",
   "season": "2025-26",
   "series": [
     {
@@ -34,15 +34,15 @@
         "name": "Atlanta Hawks"
       },
       "bottom_team": {
-        "abbr": "NYK",
+        "abbr": "CLE",
         "seed": 5,
-        "name": "New York Knicks"
+        "name": "Cleveland Cavaliers"
       },
-      "top_wins": 2,
-      "bottom_wins": 4,
-      "winner": "NYK",
-      "games_played": 6,
-      "status": "complete"
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "E3",
@@ -55,15 +55,15 @@
         "name": "Detroit Pistons"
       },
       "bottom_team": {
-        "abbr": "CLE",
+        "abbr": "NYK",
         "seed": 6,
-        "name": "Cleveland Cavaliers"
+        "name": "New York Knicks"
       },
-      "top_wins": 3,
-      "bottom_wins": 4,
-      "winner": "CLE",
-      "games_played": 7,
-      "status": "complete"
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "E4",
@@ -164,11 +164,11 @@
         "seed": 7,
         "name": "Oklahoma City Thunder"
       },
-      "top_wins": 4,
+      "top_wins": 3,
       "bottom_wins": 3,
-      "winner": "SAS",
-      "games_played": 7,
-      "status": "complete"
+      "winner": null,
+      "games_played": 6,
+      "status": "in_progress"
     },
     {
       "id": "ES1",
