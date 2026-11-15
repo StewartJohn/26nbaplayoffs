@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T02:27:40Z",
+  "last_updated": "2026-11-15T07:40:21Z",
   "season": "2025-26",
   "series": [
     {
@@ -29,14 +29,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "ATL",
+        "abbr": "MIA",
         "seed": 4,
-        "name": "Atlanta Hawks"
+        "name": "Miami Heat"
       },
       "bottom_team": {
-        "abbr": "MIA",
+        "abbr": "ATL",
         "seed": 5,
-        "name": "Miami Heat"
+        "name": "Atlanta Hawks"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -55,15 +55,15 @@
         "name": "Detroit Pistons"
       },
       "bottom_team": {
-        "abbr": "NYK",
+        "abbr": "CLE",
         "seed": 6,
-        "name": "New York Knicks"
+        "name": "Cleveland Cavaliers"
       },
-      "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "top_wins": 3,
+      "bottom_wins": 4,
+      "winner": "CLE",
+      "games_played": 7,
+      "status": "complete"
     },
     {
       "id": "E4",
@@ -76,15 +76,15 @@
         "name": "Philadelphia 76ers"
       },
       "bottom_team": {
-        "abbr": "CLE",
+        "abbr": "NYK",
         "seed": 7,
-        "name": "Cleveland Cavaliers"
+        "name": "New York Knicks"
       },
       "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "bottom_wins": 4,
+      "winner": "NYK",
+      "games_played": 4,
+      "status": "complete"
     },
     {
       "id": "W1",
@@ -97,15 +97,15 @@
         "name": "San Antonio Spurs"
       },
       "bottom_team": {
-        "abbr": "OKC",
+        "abbr": "GSW",
         "seed": 8,
-        "name": "Oklahoma City Thunder"
+        "name": "Golden State Warriors"
       },
-      "top_wins": 4,
-      "bottom_wins": 3,
-      "winner": "SAS",
-      "games_played": 7,
-      "status": "complete"
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "W2",
@@ -160,9 +160,9 @@
         "name": "Los Angeles Lakers"
       },
       "bottom_team": {
-        "abbr": "GSW",
+        "abbr": "DEN",
         "seed": 7,
-        "name": "Golden State Warriors"
+        "name": "Denver Nuggets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -188,13 +188,21 @@
       "round": 2,
       "conference": "East",
       "feeds_into": "EF",
-      "top_team": null,
-      "bottom_team": null,
+      "top_team": {
+        "abbr": "CLE",
+        "seed": 6,
+        "name": "Cleveland Cavaliers"
+      },
+      "bottom_team": {
+        "abbr": "NYK",
+        "seed": 7,
+        "name": "New York Knicks"
+      },
       "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "bottom_wins": 4,
+      "winner": "NYK",
+      "games_played": 4,
+      "status": "complete"
     },
     {
       "id": "WS1",
