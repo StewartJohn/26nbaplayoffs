@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T02:37:50Z",
+  "last_updated": "2026-11-16T07:45:49Z",
   "season": "2025-26",
   "series": [
     {
@@ -29,14 +29,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "MIA",
+        "abbr": "ATL",
         "seed": 4,
-        "name": "Miami Heat"
+        "name": "Atlanta Hawks"
       },
       "bottom_team": {
-        "abbr": "ATL",
+        "abbr": "MIA",
         "seed": 5,
-        "name": "Atlanta Hawks"
+        "name": "Miami Heat"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -97,9 +97,9 @@
         "name": "San Antonio Spurs"
       },
       "bottom_team": {
-        "abbr": "GSW",
+        "abbr": "DEN",
         "seed": 8,
-        "name": "Golden State Warriors"
+        "name": "Denver Nuggets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -160,15 +160,15 @@
         "name": "Los Angeles Lakers"
       },
       "bottom_team": {
-        "abbr": "DEN",
+        "abbr": "OKC",
         "seed": 7,
-        "name": "Denver Nuggets"
+        "name": "Oklahoma City Thunder"
       },
       "top_wins": 0,
-      "bottom_wins": 0,
-      "winner": null,
-      "games_played": 0,
-      "status": "not_started"
+      "bottom_wins": 4,
+      "winner": "OKC",
+      "games_played": 4,
+      "status": "complete"
     },
     {
       "id": "ES1",
