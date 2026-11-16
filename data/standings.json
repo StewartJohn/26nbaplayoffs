@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T16:10:18Z",
+  "last_updated": "2026-11-16T02:37:50Z",
   "scoring_rules": {
     "winner_points_by_round": {
       "1": 1,
@@ -15,13 +15,13 @@
     {
       "player_id": "bennett",
       "name": "Bennett",
-      "total": 2,
-      "correct_winners": 1,
+      "total": 0,
+      "correct_winners": 0,
       "exact_games": 0,
       "close_games": 0,
       "by_round": {
         "1": 0,
-        "2": 2,
+        "2": 0,
         "3": 0,
         "4": 0
       }
@@ -29,27 +29,13 @@
     {
       "player_id": "joe",
       "name": "Joe",
-      "total": 2,
-      "correct_winners": 1,
+      "total": 0,
+      "correct_winners": 0,
       "exact_games": 0,
       "close_games": 0,
       "by_round": {
         "1": 0,
-        "2": 2,
-        "3": 0,
-        "4": 0
-      }
-    },
-    {
-      "player_id": "paul",
-      "name": "Paul",
-      "total": 2,
-      "correct_winners": 1,
-      "exact_games": 0,
-      "close_games": 0,
-      "by_round": {
-        "1": 0,
-        "2": 2,
+        "2": 0,
         "3": 0,
         "4": 0
       }
@@ -57,6 +43,20 @@
     {
       "player_id": "john",
       "name": "John",
+      "total": 0,
+      "correct_winners": 0,
+      "exact_games": 0,
+      "close_games": 0,
+      "by_round": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      }
+    },
+    {
+      "player_id": "paul",
+      "name": "Paul",
       "total": 0,
       "correct_winners": 0,
       "exact_games": 0,
