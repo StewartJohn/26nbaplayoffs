@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T17:53:54Z",
+  "last_updated": "2026-11-19T04:01:01Z",
   "season": "2025-26",
   "series": [
     {
@@ -113,9 +113,9 @@
       "conference": "West",
       "feeds_into": "WS1",
       "top_team": {
-        "abbr": "HOU",
+        "abbr": "MIN",
         "seed": 4,
-        "name": "Houston Rockets"
+        "name": "Minnesota Timberwolves"
       },
       "bottom_team": {
         "abbr": "MEM",
@@ -134,9 +134,9 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "MIN",
+        "abbr": "HOU",
         "seed": 3,
-        "name": "Minnesota Timberwolves"
+        "name": "Houston Rockets"
       },
       "bottom_team": {
         "abbr": "POR",
