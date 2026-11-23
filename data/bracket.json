@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T16:58:42Z",
+  "last_updated": "2026-11-23T03:35:50Z",
   "season": "2025-26",
   "series": [
     {
@@ -29,34 +29,13 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "ATL",
-        "seed": 4,
-        "name": "Atlanta Hawks"
-      },
-      "bottom_team": {
-        "abbr": "NYK",
-        "seed": 5,
-        "name": "New York Knicks"
-      },
-      "top_wins": 2,
-      "bottom_wins": 4,
-      "winner": "NYK",
-      "games_played": 6,
-      "status": "complete"
-    },
-    {
-      "id": "E3",
-      "round": 1,
-      "conference": "East",
-      "feeds_into": "ES2",
-      "top_team": {
         "abbr": "DET",
-        "seed": 3,
+        "seed": 4,
         "name": "Detroit Pistons"
       },
       "bottom_team": {
         "abbr": "MIA",
-        "seed": 6,
+        "seed": 5,
         "name": "Miami Heat"
       },
       "top_wins": 0,
@@ -64,6 +43,27 @@
       "winner": null,
       "games_played": 0,
       "status": "not_started"
+    },
+    {
+      "id": "E3",
+      "round": 1,
+      "conference": "East",
+      "feeds_into": "ES2",
+      "top_team": {
+        "abbr": "ATL",
+        "seed": 3,
+        "name": "Atlanta Hawks"
+      },
+      "bottom_team": {
+        "abbr": "NYK",
+        "seed": 6,
+        "name": "New York Knicks"
+      },
+      "top_wins": 2,
+      "bottom_wins": 4,
+      "winner": "NYK",
+      "games_played": 6,
+      "status": "complete"
     },
     {
       "id": "E4",
@@ -97,15 +97,15 @@
         "name": "San Antonio Spurs"
       },
       "bottom_team": {
-        "abbr": "OKC",
+        "abbr": "DAL",
         "seed": 8,
-        "name": "Oklahoma City Thunder"
+        "name": "Dallas Mavericks"
       },
-      "top_wins": 4,
-      "bottom_wins": 3,
-      "winner": "SAS",
-      "games_played": 7,
-      "status": "complete"
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "W2",
