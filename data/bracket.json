@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T03:35:50Z",
+  "last_updated": "2026-11-23T08:45:08Z",
   "season": "2025-26",
   "series": [
     {
@@ -29,14 +29,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "DET",
+        "abbr": "NYK",
         "seed": 4,
-        "name": "Detroit Pistons"
+        "name": "New York Knicks"
       },
       "bottom_team": {
-        "abbr": "MIA",
+        "abbr": "DET",
         "seed": 5,
-        "name": "Miami Heat"
+        "name": "Detroit Pistons"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -50,20 +50,20 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "ATL",
+        "abbr": "BOS",
         "seed": 3,
-        "name": "Atlanta Hawks"
+        "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "NYK",
+        "abbr": "MIA",
         "seed": 6,
-        "name": "New York Knicks"
+        "name": "Miami Heat"
       },
-      "top_wins": 2,
-      "bottom_wins": 4,
-      "winner": "NYK",
-      "games_played": 6,
-      "status": "complete"
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "E4",
@@ -71,9 +71,9 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "BOS",
+        "abbr": "ATL",
         "seed": 2,
-        "name": "Boston Celtics"
+        "name": "Atlanta Hawks"
       },
       "bottom_team": {
         "abbr": "CLE",
