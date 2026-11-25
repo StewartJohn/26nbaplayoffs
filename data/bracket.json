@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T05:17:53Z",
+  "last_updated": "2026-11-25T09:40:57Z",
   "season": "2025-26",
   "series": [
     {
@@ -139,15 +139,15 @@
         "name": "Minnesota Timberwolves"
       },
       "bottom_team": {
-        "abbr": "DEN",
+        "abbr": "POR",
         "seed": 6,
-        "name": "Denver Nuggets"
+        "name": "Portland Trail Blazers"
       },
-      "top_wins": 4,
-      "bottom_wins": 2,
-      "winner": "MIN",
-      "games_played": 6,
-      "status": "complete"
+      "top_wins": 0,
+      "bottom_wins": 0,
+      "winner": null,
+      "games_played": 0,
+      "status": "not_started"
     },
     {
       "id": "W4",
@@ -160,9 +160,9 @@
         "name": "Los Angeles Lakers"
       },
       "bottom_team": {
-        "abbr": "POR",
+        "abbr": "DEN",
         "seed": 7,
-        "name": "Portland Trail Blazers"
+        "name": "Denver Nuggets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
