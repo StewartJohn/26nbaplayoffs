@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T19:01:53Z",
+  "last_updated": "2026-11-26T04:45:39Z",
   "season": "2025-26",
   "series": [
     {
@@ -29,14 +29,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "DET",
+        "abbr": "ATL",
         "seed": 4,
-        "name": "Detroit Pistons"
+        "name": "Atlanta Hawks"
       },
       "bottom_team": {
-        "abbr": "NYK",
+        "abbr": "DET",
         "seed": 5,
-        "name": "New York Knicks"
+        "name": "Detroit Pistons"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -50,9 +50,9 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "ATL",
+        "abbr": "NYK",
         "seed": 3,
-        "name": "Atlanta Hawks"
+        "name": "New York Knicks"
       },
       "bottom_team": {
         "abbr": "MIA",
