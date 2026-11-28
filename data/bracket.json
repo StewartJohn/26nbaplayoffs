@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T18:46:17Z",
+  "last_updated": "2026-11-28T04:36:32Z",
   "season": "2025-26",
   "series": [
     {
@@ -29,14 +29,14 @@
       "conference": "East",
       "feeds_into": "ES1",
       "top_team": {
-        "abbr": "ATL",
+        "abbr": "BOS",
         "seed": 4,
-        "name": "Atlanta Hawks"
+        "name": "Boston Celtics"
       },
       "bottom_team": {
-        "abbr": "DET",
+        "abbr": "NYK",
         "seed": 5,
-        "name": "Detroit Pistons"
+        "name": "New York Knicks"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -50,9 +50,9 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "NYK",
+        "abbr": "DET",
         "seed": 3,
-        "name": "New York Knicks"
+        "name": "Detroit Pistons"
       },
       "bottom_team": {
         "abbr": "MIA",
@@ -71,9 +71,9 @@
       "conference": "East",
       "feeds_into": "ES2",
       "top_team": {
-        "abbr": "BOS",
+        "abbr": "ATL",
         "seed": 2,
-        "name": "Boston Celtics"
+        "name": "Atlanta Hawks"
       },
       "bottom_team": {
         "abbr": "CLE",
@@ -97,9 +97,9 @@
         "name": "Los Angeles Lakers"
       },
       "bottom_team": {
-        "abbr": "DAL",
+        "abbr": "DEN",
         "seed": 8,
-        "name": "Dallas Mavericks"
+        "name": "Denver Nuggets"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -118,9 +118,9 @@
         "name": "Houston Rockets"
       },
       "bottom_team": {
-        "abbr": "MEM",
+        "abbr": "MIN",
         "seed": 5,
-        "name": "Memphis Grizzlies"
+        "name": "Minnesota Timberwolves"
       },
       "top_wins": 0,
       "bottom_wins": 0,
@@ -134,9 +134,9 @@
       "conference": "West",
       "feeds_into": "WS2",
       "top_team": {
-        "abbr": "MIN",
+        "abbr": "MEM",
         "seed": 3,
-        "name": "Minnesota Timberwolves"
+        "name": "Memphis Grizzlies"
       },
       "bottom_team": {
         "abbr": "POR",
@@ -160,9 +160,9 @@
         "name": "San Antonio Spurs"
       },
       "bottom_team": {
-        "abbr": "DEN",
+        "abbr": "DAL",
         "seed": 7,
-        "name": "Denver Nuggets"
+        "name": "Dallas Mavericks"
       },
       "top_wins": 0,
       "bottom_wins": 0,
